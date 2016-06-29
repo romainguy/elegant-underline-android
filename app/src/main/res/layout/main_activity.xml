@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:padding="16dp"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="sans-serif"
+        app:text="High-quality (path)"
+        app:type="path" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="sans-serif"
+        app:text="High-quality (region)"
+        app:type="region" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="sans-serif-condensed"
+        app:text="Elegant, practical, high-quality (path)"
+        app:type="path" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="sans-serif-condensed"
+        app:text="Elegant, practical, high-quality (region)"
+        app:type="region" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="cursive"
+        app:text="Elegant, practical, high-quality (path)"
+        app:type="path" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="cursive"
+        app:text="Elegant, practical, high-quality (region)"
+        app:type="region" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="casual"
+        app:text="Elegant &amp; practical (path)"
+        app:type="path" />
+
+    <com.android.elegantunderline.UnderlineView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        app:family="casual"
+        app:text="Elegant &amp; practical (region)"
+        app:type="region" />
+
+</LinearLayout>

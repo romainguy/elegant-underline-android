@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UnderlineView">
+        <attr name="type" format="enum">
+            <enum name="path" value="0" />
+            <enum name="region" value="1" />
+        </attr>
+        <attr name="family" format="string" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+</resources>
