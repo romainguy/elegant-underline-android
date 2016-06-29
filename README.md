@@ -5,7 +5,8 @@ Copyright 2016 Romain Guy
 [http://www.curious-creature.com](http://www.curious-creature.com)
 
 Elegant Underline is a sample Android application that shows how to create better
-underline text decorations.
+underline text decorations. For more information, please refer to
+[A better underline for Android](https://medium.com/@romainguy/a-better-underline-for-android-90ba3a2e4fb#.v4xblse45).
 
 This sample application exposes two possible implementations:
 
